@@ -1,0 +1,4 @@
+== Cuba-Co-Op (Black Ops 1) ==  (details from earlier chats were lost in compaction - re-read the project folder before working)
+- v0.1.3 camera rig: untested. Woods spine back-bend: open. Phase 2: not started.
+
+== Nexus Co-Op (NX1) ==
